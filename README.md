@@ -11,6 +11,12 @@ Features
 - Visualization: Displays intermediate image processing steps.
 
 Prerequisites
+Dataset Links
+
+Download the datasets from Kaggle:
+Messidor I Dataset: https://www.kaggle.com/datasets/hanhan2010/messidor
+Messidor II Dataset: https://www.kaggle.com/datasets/mariaherrerot/messidor2preprocess
+
 Libraries Used:
 
 - Python 3.8+
